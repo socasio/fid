@@ -1,0 +1,75 @@
+@charset "UTF-8";
+body {
+  font-family: Georgia,serif;
+  font-size: 95%;
+  line-height: 175%;
+  margin: 0 15% 0;
+color: #2F4F4F;
+}
+header {
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  font-family: Georgia, serif;
+  text-align: center;
+  background:
+
+}
+
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #FFF0F0;
+  font-size: 130%
+}
+a:visited {
+  color: #808080
+}
+a:focus, a:hover {
+  color: #c700f2;
+  background-color: #fff;
+}
+a:active {
+
+  background-color: #fff;
+
+}
+
+h1 {
+  font: Georgia, serif;
+  font-size: 120%
+
+}
+
+h2 {
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  text-align: center;
+
+}
+dt {
+  font-weight: bold;
+
+}
+strong {
+  font-style: italic;
+
+}
+ul {
+  list-style-type: none;
+  letter-spacing: .5em;
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, serif;
+  text-align: center
+
+}
+
+h2 + p {
+  font-family: Georgia, serif;
+  color:#000000;
+  text-align: center;
+
+}
